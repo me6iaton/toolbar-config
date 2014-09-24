@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptLibraryMappings">
+    <file url="file://$PROJECT_DIR$/../ascii-art" libraries="{ascii-art node_modules}" />
+    <file url="file://$PROJECT_DIR$/../atom" libraries="{atom node_modules}" />
+    <file url="file://$PROJECT_DIR$/../space-pen" libraries="{space-pen node_modules}" />
+    <file url="PROJECT" libraries="{atom node_modules, jqery}" />
+    <includedPredefinedLibrary name="Node.js Globals" />
+  </component>
+</project>
+
