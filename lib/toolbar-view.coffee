@@ -2,7 +2,7 @@ config = require "./config"
 {View} = require 'atom'
 module.exports = class ToolbarView extends View
 	@content: ->
-		@div class: 'tool-panel panel-bottom padded', =>
+		@div class: 'tool-panel tool-panel-toolbar panel-bottom padded', =>
 			@div =>
 				for button in config.defaults.buttons
 					@button class: "btn btn-lg", click: 'trigger', trigger: button.trigger, =>

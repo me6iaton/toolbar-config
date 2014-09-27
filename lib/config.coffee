@@ -6,6 +6,10 @@ class Config
 				class: 'icon-file-directory'
 			}
 			{
+				trigger: 'docpad:generate'
+				class: 'icon-sync'
+			}
+			{
 				trigger: 'two'
 				class: 'fa fa-angellist'
 			}

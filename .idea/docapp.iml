@@ -4,6 +4,7 @@
     <content url="file:///opt/atom" />
     <content url="file://$MODULE_DIR$/../ascii-art" />
     <content url="file://$MODULE_DIR$/../atom" />
+    <content url="file://$MODULE_DIR$/../docapp" />
     <content url="file://$MODULE_DIR$/../docpad" />
     <content url="file://$MODULE_DIR$/../space-pen" />
     <content url="file://$MODULE_DIR$/../status-bar" />
@@ -15,6 +16,8 @@
     <orderEntry type="library" name="jqery" level="application" />
     <orderEntry type="library" name="ascii-art node_modules" level="project" />
     <orderEntry type="library" name="space-pen node_modules" level="project" />
+    <orderEntry type="library" name="docpad node_modules" level="project" />
+    <orderEntry type="library" name="docapp node_modules" level="project" />
   </component>
 </module>
 
