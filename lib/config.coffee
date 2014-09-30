@@ -6,8 +6,9 @@ class Config
 				class: 'icon-file-directory'
 			}
 			{
-				trigger: 'docpad:generate'
-				class: 'icon-sync'
+				trigger: 'docpad:deploy-ghpages'
+				class: 'icon-deploy-ghpages icon-mark-github'
+#				class: 'loading loading-spinner-tiny'
 			}
 			{
 				trigger: 'two'

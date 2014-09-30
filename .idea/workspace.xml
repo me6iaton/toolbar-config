@@ -1,7 +1,102 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d74565b-e89f-4752-a1c5-c99bb1c47389" name="Default" comment="" />
+    <list default="true" id="3d74565b-e89f-4752-a1c5-c99bb1c47389" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/master.git/objects/ef/046e9eecaa5255ea5e9817132d4001724d6ae1" afterPath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/master.git/objects/ef/046e9eecaa5255ea5e9817132d4001724d6ae1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/working-dir/git.git/objects/ef/046e9eecaa5255ea5e9817132d4001724d6ae1" afterPath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/working-dir/git.git/objects/ef/046e9eecaa5255ea5e9817132d4001724d6ae1" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/master.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391" afterPath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/master.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/working-dir/git.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391" afterPath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/working-dir/git.git/objects/e6/9de29bb2d1d6434b8b29ae775ad8c2e48c5391" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/master.git/objects/65/a457425a679cbe9adf0d2741785d3ceabb44a7" afterPath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/master.git/objects/65/a457425a679cbe9adf0d2741785d3ceabb44a7" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/working-dir/git.git/objects/65/a457425a679cbe9adf0d2741785d3ceabb44a7" afterPath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/working-dir/git.git/objects/65/a457425a679cbe9adf0d2741785d3ceabb44a7" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/master.git/index" afterPath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/master.git/index" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/working-dir/git.git/index" afterPath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/working-dir/git.git/index" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../space-pen/vendor/jasmine_favicon.png" afterPath="$PROJECT_DIR$/../space-pen/vendor/jasmine_favicon.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ascii-art/.gitignore" afterPath="$PROJECT_DIR$/../ascii-art/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../space-pen/.gitignore" afterPath="$PROJECT_DIR$/../space-pen/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/.gitignore" afterPath="$PROJECT_DIR$/../status-bar/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tabs/.gitignore" afterPath="$PROJECT_DIR$/../tabs/.gitignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../space-pen/.npmignore" afterPath="$PROJECT_DIR$/../space-pen/.npmignore" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../space-pen/.travis.yml" afterPath="$PROJECT_DIR$/../space-pen/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/.travis.yml" afterPath="$PROJECT_DIR$/../status-bar/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tabs/.travis.yml" afterPath="$PROJECT_DIR$/../tabs/.travis.yml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/../status-bar/CONTRIBUTING.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tabs/CONTRIBUTING.md" afterPath="$PROJECT_DIR$/../tabs/CONTRIBUTING.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../space-pen/Gruntfile.coffee" afterPath="$PROJECT_DIR$/../space-pen/Gruntfile.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/master.git/HEAD" afterPath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/master.git/HEAD" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/working-dir/git.git/HEAD" afterPath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/working-dir/git.git/HEAD" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ascii-art/LICENSE.md" afterPath="$PROJECT_DIR$/../ascii-art/LICENSE.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/LICENSE.md" afterPath="$PROJECT_DIR$/../status-bar/LICENSE.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tabs/LICENSE.md" afterPath="$PROJECT_DIR$/../tabs/LICENSE.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../space-pen/LICENSE" afterPath="$PROJECT_DIR$/../space-pen/LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../space-pen/vendor/MIT.LICENSE" afterPath="$PROJECT_DIR$/../space-pen/vendor/MIT.LICENSE" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ascii-art/README.md" afterPath="$PROJECT_DIR$/../ascii-art/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../space-pen/README.md" afterPath="$PROJECT_DIR$/../space-pen/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/README.md" afterPath="$PROJECT_DIR$/../status-bar/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tabs/README.md" afterPath="$PROJECT_DIR$/../tabs/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/working-dir/a.txt" afterPath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/working-dir/a.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ascii-art/spec/ascii-art-spec.coffee" afterPath="$PROJECT_DIR$/../ascii-art/spec/ascii-art-spec.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ascii-art/lib/ascii-art.coffee" afterPath="$PROJECT_DIR$/../ascii-art/lib/ascii-art.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ascii-art/keymaps/ascii-art.cson" afterPath="$PROJECT_DIR$/../ascii-art/keymaps/ascii-art.cson" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../space-pen/benchmark/benchmark.coffee" afterPath="$PROJECT_DIR$/../space-pen/benchmark/benchmark.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../space-pen/bower.json" afterPath="$PROJECT_DIR$/../space-pen/bower.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../space-pen/vendor/coffee-script.js" afterPath="$PROJECT_DIR$/../space-pen/vendor/coffee-script.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/lib/config.coffee" afterPath="$PROJECT_DIR$/lib/config.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/master.git/config" afterPath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/master.git/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/working-dir/git.git/config" afterPath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/working-dir/git.git/config" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/lib/cursor-position-view.coffee" afterPath="$PROJECT_DIR$/../status-bar/lib/cursor-position-view.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../docapp/src/layouts/default.html.jade" afterPath="$PROJECT_DIR$/../docapp/src/layouts/default.html.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../docapp/deploy.coffee" afterPath="$PROJECT_DIR$/../docapp/deploy.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/lib/dev-mode-view.coffee" afterPath="$PROJECT_DIR$/../status-bar/lib/dev-mode-view.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../docapp/docpad.coffee" afterPath="$PROJECT_DIR$/../docapp/docpad.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../docpad/menus/docpad.cson" afterPath="$PROJECT_DIR$/../docpad/menus/docpad.cson" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../space-pen/examples/example.coffee" afterPath="$PROJECT_DIR$/../space-pen/examples/example.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/lib/file-info-view.coffee" afterPath="$PROJECT_DIR$/../status-bar/lib/file-info-view.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/working-dir/file.txt" afterPath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/working-dir/file.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/lib/git-view.coffee" afterPath="$PROJECT_DIR$/../status-bar/lib/git-view.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../space-pen/spec/headless-spec-runner.coffee" afterPath="$PROJECT_DIR$/../space-pen/spec/headless-spec-runner.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../docapp/src/render/index.html.jade" afterPath="$PROJECT_DIR$/../docapp/src/render/index.html.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../space-pen/index.html" afterPath="$PROJECT_DIR$/../space-pen/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../space-pen/benchmark/index.html" afterPath="$PROJECT_DIR$/../space-pen/benchmark/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../space-pen/examples/index.html" afterPath="$PROJECT_DIR$/../space-pen/examples/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../space-pen/vendor/jasmine-html.js" afterPath="$PROJECT_DIR$/../space-pen/vendor/jasmine-html.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../space-pen/vendor/jasmine.css" afterPath="$PROJECT_DIR$/../space-pen/vendor/jasmine.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../space-pen/vendor/jasmine.js" afterPath="$PROJECT_DIR$/../space-pen/vendor/jasmine.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../space-pen/spec/jquery-extensions-spec.coffee" afterPath="$PROJECT_DIR$/../space-pen/spec/jquery-extensions-spec.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../space-pen/vendor/jquery-matchers.js" afterPath="$PROJECT_DIR$/../space-pen/vendor/jquery-matchers.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../space-pen/vendor/jquery.js" afterPath="$PROJECT_DIR$/../space-pen/vendor/jquery.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../docpad/lib/main.coffee" afterPath="$PROJECT_DIR$/../docpad/lib/main.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/lib/main.coffee" afterPath="$PROJECT_DIR$/../status-bar/lib/main.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tabs/lib/main.coffee" afterPath="$PROJECT_DIR$/../tabs/lib/main.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/master.git/refs/heads/master" afterPath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/master.git/refs/heads/master" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/working-dir/git.git/refs/heads/master" afterPath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/working-dir/git.git/refs/heads/master" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/working-dir/other.txt" afterPath="$PROJECT_DIR$/../status-bar/spec/fixtures/git/working-dir/other.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../ascii-art/package.json" afterPath="$PROJECT_DIR$/../ascii-art/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../space-pen/package.json" afterPath="$PROJECT_DIR$/../space-pen/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/package.json" afterPath="$PROJECT_DIR$/../status-bar/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tabs/package.json" afterPath="$PROJECT_DIR$/../tabs/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../space-pen/spec/phantomjs-spec-runner.coffee" afterPath="$PROJECT_DIR$/../space-pen/spec/phantomjs-spec-runner.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../docapp/src/render/pages/posts.html.jade" afterPath="$PROJECT_DIR$/../docapp/src/render/pages/posts.html.jade" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/spec/fixtures/sample.js" afterPath="$PROJECT_DIR$/../status-bar/spec/fixtures/sample.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tabs/spec/fixtures/sample.js" afterPath="$PROJECT_DIR$/../tabs/spec/fixtures/sample.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/spec/fixtures/sample.txt" afterPath="$PROJECT_DIR$/../status-bar/spec/fixtures/sample.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/lib/selection-count-view.coffee" afterPath="$PROJECT_DIR$/../status-bar/lib/selection-count-view.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../space-pen/spec/space-pen-spec.coffee" afterPath="$PROJECT_DIR$/../space-pen/spec/space-pen-spec.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../space-pen/src/space-pen.coffee" afterPath="$PROJECT_DIR$/../space-pen/src/space-pen.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../space-pen/dist/space-pen.js" afterPath="$PROJECT_DIR$/../space-pen/dist/space-pen.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../space-pen/spec/spec-helper.coffee" afterPath="$PROJECT_DIR$/../space-pen/spec/spec-helper.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/spec/status-bar-spec.coffee" afterPath="$PROJECT_DIR$/../status-bar/spec/status-bar-spec.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/lib/status-bar-view.coffee" afterPath="$PROJECT_DIR$/../status-bar/lib/status-bar-view.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../status-bar/stylesheets/status-bar.less" afterPath="$PROJECT_DIR$/../status-bar/stylesheets/status-bar.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tabs/lib/tab-bar-view.coffee" afterPath="$PROJECT_DIR$/../tabs/lib/tab-bar-view.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tabs/lib/tab-view.coffee" afterPath="$PROJECT_DIR$/../tabs/lib/tab-view.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tabs/spec/tabs-spec.coffee" afterPath="$PROJECT_DIR$/../tabs/spec/tabs-spec.coffee" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tabs/menus/tabs.cson" afterPath="$PROJECT_DIR$/../tabs/menus/tabs.cson" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/../tabs/stylesheets/tabs.less" afterPath="$PROJECT_DIR$/../tabs/stylesheets/tabs.less" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="toolbar.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,145 +119,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ascii-art.coffee" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../ascii-art/lib/ascii-art.coffee">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="42" max-vertical-offset="399">
-              <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="coffee-script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../docapp/node_modules/docpad/node_modules/cson/node_modules/coffee-script/lib/coffee-script/coffee-script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="767" max-vertical-offset="2562">
-              <caret line="131" column="60" selection-start-line="131" selection-start-column="60" selection-end-line="131" selection-end-column="60" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="coffee-script.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../docpad/node_modules/docpad/node_modules/cson/node_modules/coffee-script/lib/coffee-script/coffee-script.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="819" max-vertical-offset="2562">
-              <caret line="124" column="19" selection-start-line="124" selection-start-column="19" selection-end-line="124" selection-end-column="19" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="config.coffee" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/config.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="567">
-              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="588">
+              <caret line="1" column="39" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="deploy.coffee" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../docapp/deploy.coffee">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="168" max-vertical-offset="462">
+              <caret line="8" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="docpad.coffee" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../docpad/lib/scope/docpad.coffee">
+        <entry file="file://$PROJECT_DIR$/../docapp/docpad.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-              <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2583">
+              <caret line="93" column="47" selection-start-line="93" selection-start-column="47" selection-end-line="93" selection-end-column="47" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="docpad.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../docpad/lib/scope/docpad.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="357" max-vertical-offset="672">
-              <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="docpad.cson" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../docpad/menus/docpad.cson">
+      <file leaf-file-name="deploy.coffee" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/../docpad/lib/deploy.coffee">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="462">
-              <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="loophole.js" pinned="false" current-in-tab="false">
-        <entry file="file:///opt/atom/resources/app/node_modules/archive-view/node_modules/loophole/lib/loophole.js">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding>
-                <element signature="e#12#649#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="main.coffee" pinned="false" current-in-tab="false">
+      <file leaf-file-name="main.coffee" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/../docpad/lib/main.coffee">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="924">
-              <caret line="14" column="47" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="47" />
-              <folding>
-                <element signature="e#922#1726#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../docapp/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0" vertical-offset="567" max-vertical-offset="1365">
-              <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="package.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../docpad/package.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="147" max-vertical-offset="819">
-              <caret line="28" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="toolbar.coffee" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/lib/toolbar.coffee">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="21" max-vertical-offset="420">
-              <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="toolbar-view.coffee" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/lib/toolbar-view.coffee">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.93636364" vertical-offset="180" max-vertical-offset="924">
-              <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="toolbar.less" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/stylesheets/toolbar.less">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-5.6" vertical-offset="0" max-vertical-offset="378">
-              <caret line="8" column="9" selection-start-line="8" selection-start-column="9" selection-end-line="8" selection-end-column="9" />
+            <state vertical-scroll-proportion="0.41363636" vertical-offset="0" max-vertical-offset="2016">
+              <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -174,6 +175,10 @@
     <FindUsagesManager>
       <setting name="OPEN_NEW_TAB" value="true" />
     </FindUsagesManager>
+  </component>
+  <component name="Git.Settings">
+    <option name="SYNC_SETTING" value="SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../docpad" />
   </component>
   <component name="JsGruntFileManager">
     <gruntfiles>
@@ -187,11 +192,12 @@
     <scope name="docapp" pattern="file[docapp]:lib/scope/*" />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="y" value="24" />
-    <option name="width" value="1366" />
-    <option name="height" value="744" />
+    <option name="x" value="1365" />
+    <option name="y" value="-4" />
+    <option name="width" value="1368" />
+    <option name="height" value="773" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -225,142 +231,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="toolbar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="toolbar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="stylesheets" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="toolbar" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docpad" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docpad" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="menus" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docpad" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docapp" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewModuleNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docpad" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="lib" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="scope" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="docpad.coffee" />
-              <option name="myItemType" value="com.intellij.plugins.watcher.projectView.NestingTreeNode" />
-            </PATH_ELEMENT>
-          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -369,7 +239,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../docapp" />
-    <property name="options.lastSelected" value="web-ide.project.structure" />
+    <property name="options.lastSelected" value="preferences.pluginManager" />
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="HbShouldOpenHtmlAsHb" value="" />
@@ -380,14 +250,32 @@
     <property name="WebServerToolWindowPanel.toolwindow.highlight.symlinks" value="true" />
     <property name="WebServerToolWindowPanel.toolwindow.highlight.mappings" value="true" />
     <property name="editorconfig.notification" value="Applied .editorconfig settings" />
-    <property name="SearchEverywhereHistoryKey" value="Loophole&#9;FILE&#9;file:///opt/atom/resources/app/node_modules/archive-view/node_modules/loophole/lib/loophole.js" />
+    <property name="SearchEverywhereHistoryKey" value="docpad&#9;FILE&#9;file:///var/www/atom/docapp/docpad.coffee&#10;main&#9;FILE&#9;file:///var/www/atom/docpad/lib/main.coffee&#10;Loophole&#9;FILE&#9;file:///opt/atom/resources/app/node_modules/archive-view/node_modules/loophole/lib/loophole.js" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="71" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="94" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="111" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1060" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="71" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="94" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="111" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1060" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../docpad" />
       <recent name="$PROJECT_DIR$/stylesheets/fa" />
       <recent name="$PROJECT_DIR$/fonts" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/../docpad/lib" />
       <recent name="$PROJECT_DIR$/../docpad/lib/scope" />
     </key>
   </component>
@@ -440,13 +328,13 @@
       <changelist id="3d74565b-e89f-4752-a1c5-c99bb1c47389" name="Default" comment="" />
       <created>1411241374519</created>
       <option name="number" value="Default" />
-      <updated>1411592534289</updated>
+      <updated>1412101176543</updated>
     </task>
     <task active="true" id="LOCAL-00001" summary="docpad">
       <created>1411592532455</created>
       <option name="number" value="00001" />
       <option name="project" value="LOCAL" />
-      <updated>1411592534380</updated>
+      <updated>1412101177836</updated>
     </task>
     <option name="localTasksCounter" value="2" />
     <option name="createChangelist" value="false" />
@@ -454,32 +342,32 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="24" width="1366" height="744" extended-state="6" />
+    <frame x="1365" y="-4" width="1368" height="773" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Remote Host" active="false" anchor="left" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.26573938" sideWeight="0.68460387" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32884902" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.29721814" sideWeight="0.61239195" order="0" side_tool="false" content_ui="combo" x="310" y="74" width="346" height="694" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3227147" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.3059163" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" x="27" y="264" width="1312" height="217" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32884902" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="SLIDING" type="FLOATING" visible="false" weight="0.23753665" sideWeight="0.38760808" order="3" side_tool="false" content_ui="tabs" x="966" y="93" width="371" height="649" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.41558442" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3145743" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.33477634" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Grunt" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="left" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.26573938" sideWeight="0.68460387" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.29721814" sideWeight="0.61239195" order="0" side_tool="false" content_ui="combo" x="310" y="74" width="346" height="694" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="SLIDING" type="FLOATING" visible="false" weight="0.23753665" sideWeight="0.38760808" order="3" side_tool="false" content_ui="tabs" x="966" y="93" width="371" height="649" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.1849315" sideWeight="0.55455905" order="1" side_tool="false" content_ui="tabs" x="27" y="247" width="1312" height="252" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.6685879" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="File Transfer" active="false" anchor="bottom" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.3102493" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="true" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3145743" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.43475074" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.43484625" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Pomodoro" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="12" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="left" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.32876712" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="true" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.5122655" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" x="1" y="254" width="1364" height="241" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.6685879" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -507,162 +395,58 @@
           <option name="timeStamp" value="8" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="10" />
+      <option name="time" value="11" />
     </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file:///opt/atom/resources/app/node_modules/archive-view/node_modules/loophole/lib/loophole.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#12#649#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../docpad/lib/main.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="441" max-vertical-offset="1197">
-          <caret line="21" column="0" selection-start-line="21" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
-          <folding>
-            <element signature="e#922#1726#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="525" max-vertical-offset="1869">
+          <caret line="25" column="31" selection-start-line="25" selection-start-column="31" selection-end-line="25" selection-end-column="41" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file:///opt/atom/resources/app/node_modules/archive-view/package.json">
+    <entry file="file://$PROJECT_DIR$/../docpad/menus/docpad.cson">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="147" max-vertical-offset="819">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="100">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../docpad/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="210" max-vertical-offset="924">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../docpad/node_modules/docpad-plugin-tags/out/tags.plugin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="588" max-vertical-offset="1197">
+          <caret line="78" column="10" selection-start-line="78" selection-start-column="10" selection-end-line="78" selection-end-column="10" />
+          <folding>
+            <element signature="e#2685#2719#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/toolbar.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="21" max-vertical-offset="420">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="42" max-vertical-offset="420">
+          <caret line="2" column="0" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file:///opt/atom/resources/app/node_modules/exception-reporting/node_modules/request/node_modules/form-data/node_modules/combined-stream/lib/combined_stream.js">
+    <entry file="file://$PROJECT_DIR$/lib/toolbar-view.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06363636" vertical-offset="336" max-vertical-offset="1344">
-          <caret line="43" column="0" selection-start-line="43" selection-start-column="0" selection-end-line="43" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///opt/atom/resources/app/node_modules/serializable/node_modules/get-parameter-names/node_modules/testla/node_modules/fn.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="147" max-vertical-offset="861">
-          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/lib/JavaScriptLanguage.jar!/com/intellij/lang/javascript/index/predefined/EcmaScript.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.33333334" vertical-offset="914" max-vertical-offset="8274">
-          <caret line="126" column="16" selection-start-line="126" selection-start-column="16" selection-end-line="126" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///opt/atom/resources/app/src/package-manager.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.92272025" vertical-offset="873" max-vertical-offset="3150">
-          <caret line="124" column="11" selection-start-line="124" selection-start-column="11" selection-end-line="124" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///opt/atom/resources/app/node_modules/tabs/lib/tab-bar-view.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="1.1772727" vertical-offset="0" max-vertical-offset="2394">
-          <caret line="207" column="25" selection-start-line="207" selection-start-column="25" selection-end-line="207" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tabs/lib/tab-bar-view.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="2364" max-vertical-offset="7518">
-          <caret line="142" column="21" selection-start-line="142" selection-start-column="18" selection-end-line="142" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tabs/lib/tab-view.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1566" max-vertical-offset="3360">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../tabs/lib/main.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25454545" vertical-offset="0" max-vertical-offset="660">
-          <caret line="8" column="0" selection-start-line="4" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/package.json">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.2" vertical-offset="0" max-vertical-offset="630">
-          <caret line="6" column="14" selection-start-line="6" selection-start-column="14" selection-end-line="6" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/fa/list.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/fa/path.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-7.7" vertical-offset="0" max-vertical-offset="420">
-          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/fa/font-awesome.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-5.6" vertical-offset="0" max-vertical-offset="483">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/fa/mixins.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/fa/variables.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="11907">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file:///opt/atom/resources/app/node_modules/atom-dark-ui/stylesheets/ui-variables.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="1722" max-vertical-offset="2037">
-          <caret line="82" column="1" selection-start-line="82" selection-start-column="1" selection-end-line="82" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/keymaps/toolbar.cson">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/stylesheets/fa/icons.less">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="11718">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="273" max-vertical-offset="924">
+          <caret line="13" column="45" selection-start-line="13" selection-start-column="45" selection-end-line="13" selection-end-column="45" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -694,13 +478,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///opt/atom/resources/app/src/atom.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.06363636" vertical-offset="4410" max-vertical-offset="5460">
-          <caret line="615" column="0" selection-start-line="615" selection-start-column="0" selection-end-line="615" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/stylesheets/fa/core.less">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.23333333" vertical-offset="0" max-vertical-offset="630">
@@ -708,49 +485,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///opt/atom/resources/app/src/workspace-view.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.12765957" vertical-offset="3423" max-vertical-offset="5124">
-          <caret line="575" column="0" selection-start-line="575" selection-start-column="0" selection-end-line="575" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.095744684" vertical-offset="0" max-vertical-offset="658">
-          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../docpad/lib/scope/docpad.js">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="84" max-vertical-offset="714">
           <caret line="19" column="14" selection-start-line="19" selection-start-column="14" selection-end-line="19" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../docapp/node_modules/docpad/node_modules/cson/node_modules/coffee-script/lib/coffee-script/coffee-script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="788" max-vertical-offset="2583">
-          <caret line="131" column="60" selection-start-line="131" selection-start-column="60" selection-end-line="131" selection-end-column="60" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../docpad/node_modules/docpad/node_modules/cson/node_modules/coffee-script/lib/coffee-script/coffee-script.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="788" max-vertical-offset="2583">
-          <caret line="124" column="19" selection-start-line="124" selection-start-column="19" selection-end-line="124" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/toolbar.coffee">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-          <caret line="1" column="16" selection-start-line="1" selection-start-column="16" selection-end-line="1" selection-end-column="16" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -761,78 +499,319 @@
         </state>
       </provider>
     </entry>
-    <entry file="file:///opt/atom/resources/app/node_modules/archive-view/package.json">
+    <entry file="file://$PROJECT_DIR$/../docapp/src/render/posts/hello.html.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="147" max-vertical-offset="819">
-          <caret line="7" column="9" selection-start-line="7" selection-start-column="9" selection-end-line="7" selection-end-column="9" />
+        <state vertical-scroll-proportion="0.19090909" vertical-offset="0" max-vertical-offset="660">
+          <caret line="6" column="23" selection-start-line="6" selection-start-column="23" selection-end-line="6" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../docapp/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../docpad/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="625">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../docpad/lib/scope/docpad.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.44545454" vertical-offset="0" max-vertical-offset="660">
+          <caret line="14" column="71" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../docapp/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.2" vertical-offset="0" max-vertical-offset="630">
+          <caret line="6" column="59" selection-start-line="6" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../docpad/node_modules/docpad-plugin-ghpages/out/ghpages.plugin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="663" max-vertical-offset="1407">
+          <caret line="64" column="19" selection-start-line="64" selection-start-column="19" selection-end-line="64" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../docpad/node_modules/docpad-plugin-tags/out/tags.plugin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="579" max-vertical-offset="1239">
+          <caret line="78" column="10" selection-start-line="78" selection-start-column="10" selection-end-line="78" selection-end-column="10" />
+          <folding>
+            <element signature="e#2685#2719#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../docpad/node_modules/docpad/node_modules/caterpillar/example-browser.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="63" max-vertical-offset="294">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../docpad/node_modules/docpad/node_modules/caterpillar/out/lib/caterpillar.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="508" max-vertical-offset="1407">
+          <caret line="194" column="12" selection-start-line="194" selection-start-column="12" selection-end-line="194" selection-end-column="12" />
+          <folding>
+            <element signature="e#5980#6774#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../docpad/node_modules/docpad/out/lib/base.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1701">
+          <caret line="25" column="19" selection-start-line="25" selection-start-column="19" selection-end-line="25" selection-end-column="19" />
+          <folding>
+            <element signature="e#719#881#0" expanded="false" />
+            <element signature="e#1060#1179#0" expanded="false" />
+            <element signature="e#1267#1926#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../docpad/node_modules/docpad/node_modules/caterpillar/example.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="966">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../docpad/node_modules/docpad/node_modules/event-emitter-grouped/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="105" max-vertical-offset="2079">
+          <caret line="5" column="63" selection-start-line="5" selection-start-column="63" selection-end-line="5" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../docpad/node_modules/docpad/out/lib/docpad.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="6816" max-vertical-offset="19908">
+          <caret line="954" column="3" selection-start-line="954" selection-start-column="3" selection-end-line="954" selection-end-column="3" />
+          <folding>
+            <element signature="e#6431#6532#0" expanded="false" />
+            <element signature="e#29939#30408#0" expanded="false" />
+            <element signature="e#31671#31741#0" expanded="false" />
+            <element signature="e#31923#32067#0" expanded="false" />
+            <element signature="e#36515#37272#0" expanded="false" />
+            <element signature="e#37341#37858#0" expanded="false" />
+            <element signature="e#37665#37831#0" expanded="false" />
+            <element signature="e#37929#38448#0" expanded="false" />
+            <element signature="e#38255#38421#0" expanded="false" />
+            <element signature="e#39343#41440#0" expanded="false" />
+            <element signature="e#40952#41124#0" expanded="false" />
+            <element signature="e#41288#41394#0" expanded="false" />
+            <element signature="e#42624#46222#0" expanded="false" />
+            <element signature="e#45887#46026#0" expanded="false" />
+            <element signature="e#46103#46172#0" expanded="false" />
+            <element signature="e#56013#59808#0" expanded="false" />
+            <element signature="e#58834#59034#0" expanded="false" />
+            <element signature="e#58888#59026#0" expanded="false" />
+            <element signature="e#67017#67219#0" expanded="false" />
+            <element signature="e#69042#69353#0" expanded="false" />
+            <element signature="e#75753#77363#0" expanded="false" />
+            <element signature="e#76095#76297#0" expanded="false" />
+            <element signature="e#76348#76558#0" expanded="false" />
+            <element signature="e#89732#92821#0" expanded="false" />
+            <element signature="e#90546#92794#0" expanded="false" />
+            <element signature="e#90689#91430#0" expanded="false" />
+            <element signature="e#90747#91420#0" expanded="false" />
+            <element signature="e#92880#98923#0" expanded="false" />
+            <element signature="e#94047#95786#0" expanded="false" />
+            <element signature="e#94275#95769#0" expanded="false" />
+            <element signature="e#94308#95758#0" expanded="false" />
+            <element signature="e#94505#94868#0" expanded="false" />
+            <element signature="e#94571#94854#0" expanded="false" />
+            <element signature="e#95923#98889#0" expanded="false" />
+            <element signature="e#95954#98880#0" expanded="false" />
+            <element signature="e#96167#96904#0" expanded="false" />
+            <element signature="e#96201#96892#0" expanded="false" />
+            <element signature="e#96584#96640#0" expanded="false" />
+            <element signature="e#102992#103558#0" expanded="false" />
+            <element signature="e#103619#103785#0" expanded="false" />
+            <element signature="e#104571#117846#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../docpad/src/render/index.html.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.20454545" vertical-offset="12" max-vertical-offset="672">
+          <caret line="7" column="32" selection-start-line="7" selection-start-column="32" selection-end-line="7" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/toolbar.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
+          <caret line="7" column="30" selection-start-line="7" selection-start-column="30" selection-end-line="7" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../docpad/docpad.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9045454" vertical-offset="894" max-vertical-offset="2583">
+          <caret line="71" column="0" selection-start-line="71" selection-start-column="0" selection-end-line="71" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../docpad/.bowerrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="189">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="189">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../ascii-art/lib/ascii-art.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="399">
+        <state vertical-scroll-proportion="0.0" vertical-offset="42" max-vertical-offset="399">
           <caret line="2" column="12" selection-start-line="2" selection-start-column="12" selection-end-line="2" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../docapp/deploy.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="168" max-vertical-offset="462">
+          <caret line="8" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="8" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../docpad/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.12727273" vertical-offset="0" max-vertical-offset="660">
+          <caret line="4" column="52" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../docpad/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="147" max-vertical-offset="819">
-          <caret line="28" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="294" max-vertical-offset="924">
+          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../docapp/package.json">
+    <entry file="file://$PROJECT_DIR$/../docapp/src/render/index.html.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0" vertical-offset="567" max-vertical-offset="1365">
-          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="42" max-vertical-offset="609">
+          <caret line="2" column="3" selection-start-line="2" selection-start-column="3" selection-end-line="2" selection-end-column="3" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../docapp/src/layouts/post.html.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="336" max-vertical-offset="504">
+          <caret line="16" column="28" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../docapp/src/render/pages/posts.html.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="378">
+          <caret line="6" column="7" selection-start-line="6" selection-start-column="7" selection-end-line="6" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../docpad/lib/deploy.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="462">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../docapp/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+          <caret line="0" column="13" selection-start-line="0" selection-start-column="0" selection-end-line="6" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file:///opt/atom/resources/app/node_modules/archive-view/node_modules/loophole/lib/loophole.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="336">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="e#12#649#0" expanded="true" />
+            <element signature="e#12#649#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../docpad/lib/scope/docpad.coffee">
+    <entry file="file://$PROJECT_DIR$/../docapp/src/layouts/page.html.jade">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="420">
-          <caret line="6" column="16" selection-start-line="6" selection-start-column="16" selection-end-line="6" selection-end-column="16" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="660">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/../docpad/menus/docpad.cson">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="462">
+        <state vertical-scroll-proportion="0.35" vertical-offset="0" max-vertical-offset="660">
           <caret line="11" column="35" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/../docpad/lib/main.coffee">
+    <entry file="file://$PROJECT_DIR$/../docapp/package.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="924">
-          <caret line="14" column="47" selection-start-line="14" selection-start-column="32" selection-end-line="14" selection-end-column="47" />
-          <folding>
-            <element signature="e#922#1726#0" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="-0.08730159" vertical-offset="748" max-vertical-offset="1386">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/config.coffee">
+    <entry file="file://$PROJECT_DIR$/../docpad/node_modules/docpad/node_modules/cson/node_modules/coffee-script/lib/coffee-script/coffee-script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="567">
-          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        <state vertical-scroll-proportion="0.6045455" vertical-offset="588" max-vertical-offset="2583">
+          <caret line="131" column="63" selection-start-line="131" selection-start-column="63" selection-end-line="131" selection-end-column="63" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../docapp/src/layouts/default.html.jade">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.08181818" vertical-offset="1104" max-vertical-offset="1764">
+          <caret line="50" column="3" selection-start-line="50" selection-start-column="3" selection-end-line="50" selection-end-column="3" />
+          <folding>
+            <marker date="1411898563352" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1411898563352" expanded="true" signature="-1:-1" placeholder="..." />
+            <marker date="1411898563352" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -846,8 +825,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/toolbar-view.coffee">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.93636364" vertical-offset="180" max-vertical-offset="924">
-          <caret line="38" column="0" selection-start-line="38" selection-start-column="0" selection-end-line="38" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.095454544" vertical-offset="0" max-vertical-offset="924">
+          <caret line="3" column="69" selection-start-line="3" selection-start-column="14" selection-end-line="3" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/config.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="588">
+          <caret line="1" column="39" selection-start-line="1" selection-start-column="11" selection-end-line="1" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../docapp/docpad.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1852" max-vertical-offset="2583">
+          <caret line="93" column="47" selection-start-line="93" selection-start-column="47" selection-end-line="93" selection-end-column="47" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../docpad/lib/main.coffee">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.41363636" vertical-offset="0" max-vertical-offset="2016">
+          <caret line="13" column="14" selection-start-line="13" selection-start-column="14" selection-end-line="13" selection-end-column="14" />
           <folding />
         </state>
       </provider>

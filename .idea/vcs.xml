@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="VcsDirectoryMappings">
-    <mapping directory="" vcs="" />
+    <mapping directory="$PROJECT_DIR$/../ascii-art" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../docapp" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../docpad" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../space-pen" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../status-bar" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/../tabs" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
   </component>
 </project>
 
