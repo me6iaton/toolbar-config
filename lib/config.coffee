@@ -6,13 +6,13 @@ class Config
 				class: 'icon-file-directory'
 			}
 			{
-				trigger: 'docpad:deploy-ghpages'
+				trigger: 'docapp:deploy-ghpages'
 				class: 'icon-deploy-ghpages icon-mark-github'
 #				class: 'loading loading-spinner-tiny'
 			}
 			{
-				trigger: 'two'
-				class: 'fa fa-angellist'
+				trigger: 'docapp:preview'
+				class: 'icon-device-desktop'
 			}
 		]
 
