@@ -1,17 +1,19 @@
 config = require "./config"
-{View} = require 'atom'
+{$, View} = require process.resourcesPath + '/app/node_modules/space-pen'
+underscorePlus = require process.resourcesPath + '/app/node_modules/underscore-plus'
 
 module.exports = class ToolbarConfigView extends View
-  @content: ->
+  @content: =>
     @div id: 'toolbar-config', =>
       for button in config.defaults.buttons
-        @div class: "icon #{button.class}", click: 'trigger', trigger: button.trigger
-
-#    @div class: 'tool-panel tool-panel-toolbar panel-bottom padded', =>
-#      @div =>
-#        for button in config.defaults.buttons
-#          @button class: "btn btn-lg", click: 'trigger', trigger: button.trigger, =>
-#            @span class: "icon #{button.class}"
+        if button.class == 'spacer'
+          @div class: 'spacer'
+        else
+          eventElement = $(document.activeElement)
+          keyBindings = atom.keymap.findKeyBindings command: button.trigger, target: eventElement[0]
+          humanizeKeystroke = underscorePlus.humanizeKeystroke(keyBindings[0]?.keystrokes)
+          title = if humanizeKeystroke then button.title + " " + humanizeKeystroke else button.title
+          @div class: "icon #{button.class}", click: 'trigger', trigger: button.trigger, title: title
 
   initialize: (serializeState) ->
     atom.packages.onDidActivateAll =>
@@ -32,7 +34,6 @@ module.exports = class ToolbarConfigView extends View
 #    else
       atom.workspace.addLeftPanel { item: @ }
       @addClass 'vertical left'
-#      atom.workspaceView.find('.tab-bar').after(@)
 
   trigger: (event, element) ->
     atom.workspaceView.trigger element.attr('trigger')
