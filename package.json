@@ -1,5 +1,5 @@
 {
-  "name": "toolbar-docapp",
+  "name": "toolbar-config",
   "main": "./lib/toolbar-config",
   "version": "0.0.0",
   "description": "A short description of your package",

@@ -3,7 +3,10 @@ config = require "./config"
 
 module.exports = class ToolbarConfigView extends View
   @content: ->
-    @div id: 'toolbar'
+    @div id: 'toolbar-config', =>
+      for button in config.defaults.buttons
+        @div class: "icon #{button.class}", click: 'trigger', trigger: button.trigger
+
 #    @div class: 'tool-panel tool-panel-toolbar panel-bottom padded', =>
 #      @div =>
 #        for button in config.defaults.buttons
@@ -13,7 +16,7 @@ module.exports = class ToolbarConfigView extends View
   initialize: (serializeState) ->
     atom.packages.onDidActivateAll =>
       @toggle()
-    atom.workspaceView.command "toolbar:toggle", =>
+    atom.workspaceView.command "toolbar-config:toggle", =>
       @toggle()
 
   # Returns an object that can be retrieved when package is activated
@@ -24,10 +27,12 @@ module.exports = class ToolbarConfigView extends View
     @detach()
 
   toggle: ->
-    if @hasParent()
-      @detach()
-    else
-      atom.workspaceView.find('.tab-bar').after(@)
+#    if @hasParent()
+#      @detach()
+#    else
+      atom.workspace.addLeftPanel { item: @ }
+      @addClass 'vertical left'
+#      atom.workspaceView.find('.tab-bar').after(@)
 
   trigger: (event, element) ->
     atom.workspaceView.trigger element.attr('trigger')

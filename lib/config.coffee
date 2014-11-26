@@ -1,22 +1,24 @@
 class Config
-	defaults:
-		buttons: [
-			{
-				trigger: 'tree-view:toggle'
-				class: 'icon-file-directory'
-			}
-			{
-				trigger: 'docapp:deploy-ghpages'
-				class: 'icon-deploy-ghpages icon-mark-github'
-#				class: 'loading loading-spinner-tiny'
-			}
-			{
-				trigger: 'docapp:preview'
-				class: 'icon-device-desktop'
-			}
-		]
+  defaults:
+    buttons: [
+      {
+        trigger: 'tree-view:toggle'
+        class: 'icon-file-directory'
+        title: ''
+      }
+      {
+        trigger: 'docapp:deploy-ghpages'
+        class: 'icon-deploy-ghpages icon-mark-github'
+        title: ''
+      }
+      {
+        trigger: 'docapp:preview'
+        class: 'icon-device-desktop'
+        title: ''
+      }
+    ]
 
-	getDefault: (key) ->
-		return
+  getDefault: (key) ->
+    return
 
 module.exports = new Config()
