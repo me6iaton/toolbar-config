@@ -33,7 +33,9 @@ module.exports = class ToolbarConfigView extends View
 #      @detach()
 #    else
       atom.workspace.addLeftPanel { item: @ }
+      @.parent().attr 'id', 'panel-toolbar-config'
       @addClass 'vertical left'
+
 
   trigger: (event, element) ->
     atom.workspaceView.trigger element.attr('trigger')
