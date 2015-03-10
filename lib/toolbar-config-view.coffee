@@ -18,8 +18,8 @@ module.exports = class ToolbarConfigView extends View
   initialize: (serializeState) ->
     atom.packages.onDidActivateAll =>
       @toggle()
-    atom.workspaceView.command "toolbar-config:toggle", =>
-      @toggle()
+    atom.commands.add 'atom-workspace',
+      'toolbar-config:toggle': => @toggle()
 
   # Returns an object that can be retrieved when package is activated
   serialize: ->
@@ -38,4 +38,4 @@ module.exports = class ToolbarConfigView extends View
 
 
   trigger: (event, element) ->
-    atom.workspaceView.trigger element.attr('trigger')
+    atom.commands.dispatch(atom.views.getView(atom.workspace), element.attr('trigger'))
