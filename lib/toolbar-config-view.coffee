@@ -13,7 +13,7 @@ module.exports = class ToolbarConfigView extends View
           keyBindings = atom.keymap.findKeyBindings command: button.trigger, target: eventElement[0]
           humanizeKeystroke = underscorePlus.humanizeKeystroke(keyBindings[0]?.keystrokes)
           title = if humanizeKeystroke then button.title + " " + humanizeKeystroke else button.title
-          @div class: "icon #{button.class}", click: 'trigger', trigger: button.trigger, title: title
+          @div class: "icon #{button.class}", click: 'trigger', trigger: button.trigger, target: button.target, title: title
 
   initialize: (serializeState) ->
     atom.packages.onDidActivateAll =>
@@ -37,5 +37,10 @@ module.exports = class ToolbarConfigView extends View
       @addClass 'vertical left'
 
 
-  trigger: (event, element) ->
-    atom.commands.dispatch(atom.views.getView(atom.workspace), element.attr('trigger'))
+  trigger: (event, element) =>
+    target =
+      if element.attr('target') == 'text-editor'
+        atom.views.getView(atom.workspace.getActiveTextEditor())
+      else
+        atom.views.getView(atom.workspace)
+    atom.commands.dispatch(target, element.attr('trigger'))
