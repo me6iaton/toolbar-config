@@ -1,6 +1,6 @@
 config = require "./config"
-{$, View} = require process.resourcesPath + '/app/node_modules/space-pen'
-underscorePlus = require process.resourcesPath + '/app/node_modules/underscore-plus'
+{$, View} = require process.resourcesPath + '/app.asar/node_modules/space-pen'
+_ = require process.resourcesPath + '/app.asar/node_modules/underscore-plus'
 
 module.exports = class ToolbarConfigView extends View
   @content: =>
@@ -10,13 +10,13 @@ module.exports = class ToolbarConfigView extends View
           @div class: 'spacer'
         else
           eventElement = $(document.activeElement)
-          keyBindings = atom.keymap.findKeyBindings command: button.trigger, target: eventElement[0]
-          humanizeKeystroke = underscorePlus.humanizeKeystroke(keyBindings[0]?.keystrokes)
+          keyBindings = atom.keymaps.findKeyBindings command: button.trigger, target: eventElement[0]
+          humanizeKeystroke = _.humanizeKeystroke(keyBindings[0]?.keystrokes)
           title = if humanizeKeystroke then button.title + " " + humanizeKeystroke else button.title
           @div class: "icon #{button.class}", click: 'trigger', trigger: button.trigger, target: button.target, title: title
 
   initialize: (serializeState) ->
-    atom.packages.onDidActivateAll =>
+    atom.packages.onDidActivateInitialPackages =>
       @toggle()
     atom.commands.add 'atom-workspace',
       'toolbar-config:toggle': => @toggle()

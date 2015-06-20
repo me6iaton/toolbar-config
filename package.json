@@ -1,7 +1,7 @@
 {
   "name": "toolbar-config",
   "main": "./lib/toolbar-config",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "A short description of your package",
   "repository": "https://github.com/atom/toolbar",
   "license": "MIT",
@@ -9,6 +9,7 @@
     "atom": ">0.50.0"
   },
   "dependencies": {
-    "space-pen": ""
+    "space-pen": "^5.1.1",
+    "underscore-plus": "^1.6.6"
   }
 }

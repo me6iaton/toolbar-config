@@ -1,8 +1,11 @@
-# See https://atom.io/docs/latest/creating-a-package#menus for more details
 'context-menu':
-  '.overlayer':
-      'Enable toolbar': 'toolbar:toggle'
-
+  'atom-workspace': [
+    {
+      'label': 'Enable toolbar'
+      'command': 'toolbar:toggle'
+    }
+  ]
+  
 'menu': [
   {
     'label': 'Packages'
