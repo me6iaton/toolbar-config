@@ -6,6 +6,8 @@ class Config
       {trigger: 'docapp:deploy-ghpages', target: 'workspace', class: 'icon-mark-github', title: 'Deploy to GitHub Pages'}
       {trigger: 'docapp:preview', target: 'workspace', class: 'icon-device-desktop', title: 'Toggle Preview'}
       {class: 'spacer'}
+      {trigger: 'core:save', target: 'text-editor', class: 'ion ion-archive', title: 'Save'}
+      {class: 'spacer'}
       {trigger: 'markdown-writer:toggle-h3', target: 'text-editor', class: 'fa fa-header', title: 'Toggle Header H3'}
       {trigger: 'markdown-writer:toggle-bold-text', target: 'text-editor', class: 'fa fa-bold', title: 'Toggle Bold Text'}
       {trigger: 'markdown-writer:toggle-italic-text',target: 'text-editor',  class: 'fa fa-italic', title: 'Toggle Italic Text'}
